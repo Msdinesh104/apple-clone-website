@@ -1,39 +1,33 @@
-🍏 Apple Website Clone — React + Vite + Tailwind :
+🍏 Apple Website UI Clone
 
-A static, visually accurate clone of the Apple India website built using React, Vite, and Tailwind CSS, following a clean component-based architecture.
+React.js + Vite + Tailwind CSS :
+A fully static, visually accurate UI clone of the Apple India homepage — built as my first React.js project while learning component-based architecture.
 
-This project replicates key UI elements such as the navigation bar, hero section, product sections, reusable buttons, and footer—designed to closely match Apple’s minimal and premium design style.
 
+🚀 Project Overview :
+This project is a static UI recreation of the Apple website.
+The main goal was to understand how React components work, how to structure a clean project, and how to build modern UIs using Tailwind CSS.
 
-🚀 Features :
+This project has no functionality — it focuses purely on layout, styling, and component structure.
 
-🧱 Component-Based Architecture
+🎯 Features :
+✔ Component-Based Architecture
+✔ Apple-style Navigation Bar
+✔ Hero Section with Product Highlights
+✔ Multiple Product Sections
+✔ Reusable Button Component
+✔ Responsive Footer
+✔ Fully Responsive UI
+✔ Clean folder structure.
 
-The project includes:
+🛠️ Tech Stack :
 
-🧭 Nav Component – Replicated Apple-style navbar with clean layout
+1.React.js
 
-🎬 Hero Component – Visually appealing hero section similar to Apple homepage
+2.Vite
 
-📦 Section Component – Reusable sections for different product blocks
+3.Tailwind CSS
 
-🔘 Button Component – Reusable buttons with consistent styling
+4.JavaScript (ES6)
 
-🦶 Footer Component – Footer designed to look like Apple’s footer.
-
-💅 Modern Styling
-
-  **Fully styled using Tailwind CSS for:
-
- ** Responsive layout
-
- ** Consistent spacing
-
- ** Clean typography
-
- ** Apple-like UI
-
- 📱 Responsive Design
-
-Optimized for mobile and desktop screens.
-
+5.CSS (Utility-first styling).
